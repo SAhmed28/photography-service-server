@@ -50,6 +50,7 @@ async function run(){
             const review = req.body;
             const result = await reviewCollection.insertOne(review);
             res.send(result);
+            console.log(result)
         })
 
         
@@ -58,6 +59,7 @@ async function run(){
             const query = {_id : ObjectId(id) };
             const result = await reviewCollection.deleteOne(query);
             res.send(result);
+            console.log(result)
         })
     }
     finally{
