@@ -1,0 +1,58 @@
+[
+    {
+      "price": "$3,551.67",
+      "image": "https://www.nataliejweddings.com/wp-content/uploads/2020/07/Hyde-House-Wedding-Photography-Cotswolds-Natalie-J-Weddings-317.jpg",
+      "rating": 4.9,
+      "name": "Wedding Photography",
+      "description": "Your wedding marks an important chapter in your life story and it's a chapter that deserves to be captured by experienced professionals. From outdoor ceremonies in the middle of summer to dimly lit receptions in the winter, our experience and knowledge ensures you receive beautiful wedding & engagement photographs regardless of the lighting conditions."
+    },
+    {
+      "price": "$3,618.03",
+      "image": "https://capephotography.biz/wp-content/uploads/elementor/thumbs/Event-Photography-of75xav2pgr5dygdiyhtuy62y9ivbpl8l6fhphf9y8.jpg",
+      "rating": 4.9,
+      "name": "Event Photography",
+      "description": "Live events are fast-paced and there is no room for error. Strong images help promote and build excitement around your event. You need a photographer who can think on their feet and react quickly to capture the action under extreme lighting conditions. With over 13 years of experience, we can deliver quality images from a small gathering to a live concert or multi-day conference."
+    },
+    {
+      "price": "$3,618.03",
+      "image": "https://www.idesignarch.com/wp-content/uploads/Luxury-Modern-Minimalist-House-Nettleton-Cape-Town-South-Africa_1.jpg",
+      "rating": 5,
+      "name": "Lux Home",
+      "description": ""
+    },
+    {
+      "price": "$3,618.03",
+      "image": "https://cdn.fstoppers.com/styles/full/s3/photos/2018/07/39aa6ba5de75d6c1ccaa648a13b3acff.jpg?itok=rPt93PRv",
+      "rating": 5,
+      "name": "Extreme Car Photography",
+      "description": "We are Edmonton based automotive photographer and videographer specializing in creating high-quality content for private owners, businesses, and brands. We provide commercial level automotive videography, photography, spec commercials, as well as works with you to develop marketing campaigns for your company or product."
+    },
+    {
+      "price": "$3,331.34",
+      "image": "https://www.bluetreestudios.com.au/wp-content/uploads/2021/08/Corporate-Portrait-Headshot-Melbourne-Business.jpg",
+      "rating": 4.9,
+      "name": "Corporate",
+      "description": "You know the old saying - you never get a second chance to make a first impression. Those words have never been more true and in today's online world, having professional images to promote your product, service or brand is more important than ever. From headshots and product photography to architecture & food, we can deliver images that will make you stand out from the crowd."
+    },
+    {
+      "price": "$1,243.75",
+      "image": "https://www.theclickcommunity.com/blog/wp-content/uploads/2018/04/woman-with-red-hair-outside-by-Cassandra-Casley-840x560.jpg",
+      "rating": 5,
+      "name": "Potraits",
+      "description": "In today's busy digital world, everyone probably has a few 'snapshots' on Facebook that they've taken with their iPhone but when was the last time that you worked with professional photographer to create a great portrait? Whether it's a family portrait or a couples session, our portrait sessions are a great way to capture and preserve the memories of the people who are the most important in your lives."
+    },
+    {
+      "price": "$3,129.29",
+      "image": "https://www.on2sides.com/wp-content/uploads/2022/05/Family-Photographer0.jpg",
+      "rating": 4.8,
+      "name": "Family",
+      "description": "Whether you want to capture the falling leaves of autumn, the first flowers of spring, the warm sunsets of summer, or a blissful winter wonderland, we will ensure that every portrait tells your unique family story."
+    },
+    {
+      "price": "$2,409.62",
+      "image": "http://farm7.staticflickr.com/6115/6303928239_dace0eb705.jpg",
+      "rating": 4.7,
+      "name": "Fall Photography",
+      "description": "Our mission is to give every client the best photography session possible. To do this, we only take one booking per day in Autumn months. This allows us to capture our clients at golden hour!"
+    }
+  ]
